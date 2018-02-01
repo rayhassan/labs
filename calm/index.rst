@@ -17,7 +17,7 @@ Orchestration and Automation
    k8s
    nucalm_overview
    nucalm_deepdive
-   .. nucalm_positioning
+   nucalm_positioning
    quiz
 
    lab1
